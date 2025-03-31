@@ -99,7 +99,7 @@ const Contact = () => {
             <CardContent>
               <address className="not-italic">
                 59, Subramaniya Udaiyar st,<br />
-                Telungupalyam,Coimbatore-39
+            Telungupalyam,Coimbatore
               </address>
             </CardContent>
           </Card>
